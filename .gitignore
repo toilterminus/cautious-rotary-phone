@@ -1,0 +1,8 @@
+# Ignore emacs backups
+*~
+
+# Ignore auto-generated hardware-configuration.nix
+/hardware-configuration.nix
+
+# Ignore changes to local.nix
+/local.nix
